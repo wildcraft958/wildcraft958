@@ -28,13 +28,16 @@ I am Animesh Raj, a 4th Year Undergraduate student at IIT Kharagpur. I am deeply
 ![SciPy](https://img.shields.io/badge/SciPy-8A2BE2?style=for-the-badge&logo=scipy&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=wildcraft958&theme=dark&hide_border=true&show_icons=true&count_private=true" alt="GitHub stats" width="500" />
+## � Highlights
+- 4th Year UG student at IIT Kharagpur
+- Research-driven interest in AI/ML and software engineering
+- Focus on machine learning systems, applied AI, and product-oriented solutions
+- Open to collaboration on impactful AI and ML projects
 
-## 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wildcraft958&theme=radical&no-frame=true&margin-w=4)](https://github.com/wildcraft958)
+## 🧠 Current Focus
+- Deep Learning
+- Applied Data Science
+- AI Research
+- Modern Software Development
 
----
-[![Profile views](https://komarev.com/ghpvc/?username=wildcraft958&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/wildcraft958)
-
-<!-- Minimal profile layout for faster loading -->
+<!-- Clean, lightweight profile layout for reliable GitHub rendering -->
