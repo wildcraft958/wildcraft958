@@ -1,4 +1,4 @@
-# Animeshwildcraft958 · he/him
+# Animesh Raj · he/him
 
 I am Animesh Raj, a 4th Year Undergraduate student at IIT Kharagpur. I am deeply passionate about the intersection of AI/ML and modern software development, with a strong interest in building intelligent systems, exploring research-driven ideas, and creating practical technology solutions.
 
@@ -29,6 +29,6 @@ I am Animesh Raj, a 4th Year Undergraduate student at IIT Kharagpur. I am deeply
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=wildcraft958&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=wildcraft958&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=wildcraft958&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=wildcraft958&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=wildcraft958&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
