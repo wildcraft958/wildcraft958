@@ -55,7 +55,7 @@ technology solutions.
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/master/render/wildcraft958-github-contribution-grid-snake.svg" alt="3D contribution graph" />
+<img src="https://raw.githubusercontent.com/wildcraft958/wildcraft958/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
 
 <br/>
