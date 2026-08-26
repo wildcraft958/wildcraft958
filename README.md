@@ -2,7 +2,7 @@
 <h3 align="center">he/him · 4th Year Undergraduate at IIT Kharagpur</h3>
 
 <p align="center">
-I'm deeply passionate about the intersection of AI/ML and modern software development —
+I am deeply passionate about the intersection of AI/ML and modern software development,
 building intelligent systems, exploring research-driven ideas, and creating practical
 technology solutions.
 </p>
@@ -47,7 +47,7 @@ technology solutions.
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.shion.dev/api?username=wildcraft958&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=false" />
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=wildcraft958&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html,c" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=wildcraft958&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html,jupyter%20notebook" />
 </p>
 
 <p align="center">
