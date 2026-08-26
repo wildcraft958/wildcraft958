@@ -55,7 +55,7 @@ technology solutions.
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wildcraft958&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/master/render/wildcraft958-github-contribution-grid-snake.svg" alt="3D contribution graph" />
 </p>
 
 <br/>
