@@ -28,7 +28,27 @@ I am Animesh Raj, a 4th Year Undergraduate student at IIT Kharagpur. I am deeply
 ![SciPy](https://img.shields.io/badge/SciPy-8A2BE2?style=for-the-badge&logo=scipy&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=wildcraft958&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=wildcraft958&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=wildcraft958&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+<table>
+<tr>
+<td width="50%">
+
+![Wildcraft's GitHub Stats](https://github-readme-stats.shion.dev/api?username=wildcraft958&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=false)
+
+</td>
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=wildcraft958&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html,c)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=wildcraft958&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wildcraft958&theme=react-dark" alt="Contribution Graph" />
+</p>
