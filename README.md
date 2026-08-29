@@ -46,8 +46,8 @@ technology solutions.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=wildcraft958&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=false" />
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=wildcraft958&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html,jupyter%20notebook" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=wildcraft958&theme=dark&hide_border=true&count_private=true&hide_rank=false" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=wildcraft958&theme=dark&hide_border=true&count_private=true&layout=compact&hide=html,jupyter%20notebook" />
 </p>
 
 <p align="center">
